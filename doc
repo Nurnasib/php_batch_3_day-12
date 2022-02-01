@@ -1,0 +1,19 @@
+access modifier->public, private, protected.
+Inheritance->connecting classes
+    -use->extends(will be accessed to public and protected)
+    -creating new object(will be accessed to public)
+
+encapsulation->acccess modifier.
+
+
+
+
+
+
+/*
+require_once 'vendor/autoload.php';
+use App\classes\Calculator;
+
+$calculator = new Calculator([10, 20, 30, 'BITM']);
+$calculator->index();*/
+/*echo $calculator->index();*/
